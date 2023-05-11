@@ -24,7 +24,9 @@
 
 ## Training, Testing & Evaluation
 
-`bash main.sh`
+```
+bash main.sh
+```
 
 ## Citation
 
