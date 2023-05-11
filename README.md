@@ -15,13 +15,12 @@
 + `scikit-learn==0.24.1`
 + `spacy==3.1.4`
 + `numpy==1.19.5`
-+ Download  `Pretrained GloVe Embeddings` (`300d`) and save it in `/vectors`.
++ Download[`Pretrained GloVe Embeddings 300d`](http://nlp.stanford.edu/data/glove.6B.zip) and save it in `/vectors`.
 
 ## Dataset
 
-+ [data](https://drive.google.com/drive/folders/1OUHF7mIxeJwN3jcpYnABKlhPtb_jQzP7?usp=share_link)
-+ The **preprocessing details** can be found in `src/utils/data/loader.py`.
-+ If you want to **create the dataset yourself**, download the `comet-atomic-2020` (`BART`) checkpoint and place it in `/data/Comet`. The preprocessed data will be automatically generated after running the `main.sh` script.
++ The preprocessed dataset is already provided at [Google Driven](https://drive.google.com/drive/folders/1OUHF7mIxeJwN3jcpYnABKlhPtb_jQzP7?usp=share_link).
++ If you want to **create the dataset yourself**, download the [`comet-atomic-2020` (`BART`) checkpoint](https://github.com/allenai/comet-atomic-2020) and place it in `/data/Comet`. The preprocessed data will be automatically generated after running the `main.sh` script.
 
 ## Training, Testing & Evaluation
 
