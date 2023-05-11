@@ -1,6 +1,6 @@
 
 # Code for CASE
-> The implementation of our paper accepted by ACL 2023: [**CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation**]
+> The implementation of our paper accepted by ACL 2023: [**CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation**](https://arxiv.org/abs/2208.08845)
 
 <img src="https://img.shields.io/badge/Venue-ACL--23-278ea5" alt="venue"/> <img src="https://img.shields.io/badge/Status-Accepted-success" alt="status"/> <img src="https://img.shields.io/badge/Last%20Updated-2023--05-2D333B" alt="update"/>
 
@@ -25,4 +25,21 @@
 ## Training, Testing & Evaluation
 
 `bash main.sh`
+
+## Citation
+
+If you find our work useful for your research, please kindly cite our paper as follows:
+```
+@article{case-zhou,
+  author = {Jinfeng Zhou and
+            Chujie Zheng and
+            Bo Wang and
+            Zheng Zhang and
+            Minlie Huang},
+  title = {{CASE:} Aligning Coarse-to-Fine Cognition and Affection for Empathetic
+            Response Generation},
+  booktitle = "ACL 2023"
+}
+```
+
 
