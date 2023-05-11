@@ -1,6 +1,8 @@
 
 # Code for CASE
-> 
+> The implementation of our paper accepted by ACL 2023: [**CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation**]
+
+<img src="https://img.shields.io/badge/Venue-ACL--23-278ea5" alt="venue"/> <img src="https://img.shields.io/badge/Status-Accepted-success" alt="status"/> <img src="https://img.shields.io/badge/Last%20Updated-2023--05-2D333B" alt="update"/>
 
 ## Requirements
 
