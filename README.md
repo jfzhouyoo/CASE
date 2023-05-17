@@ -39,7 +39,8 @@ If you find our work useful for your research, please kindly cite our paper as f
             Zheng Zhang and
             Minlie Huang},
   title = {{CASE:} Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation},
-  booktitle = "ACL 2023"
+  booktitle = {ACL},
+  year = {2023}
 }
 ```
 
