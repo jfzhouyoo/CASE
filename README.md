@@ -32,15 +32,27 @@ bash main.sh
 
 If you find our work useful for your research, please kindly cite our paper as follows:
 ```
-@article{case-zhou,
-  author = {Jinfeng Zhou and
-            Chujie Zheng and
-            Bo Wang and
-            Zheng Zhang and
-            Minlie Huang},
-  title = {{CASE:} Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation},
-  booktitle = {ACL},
-  year = {2023}
+@inproceedings{DBLP:conf/acl/ZhouZW0H23,
+  author       = {Jinfeng Zhou and
+                  Chujie Zheng and
+                  Bo Wang and
+                  Zheng Zhang and
+                  Minlie Huang},
+  editor       = {Anna Rogers and
+                  Jordan L. Boyd{-}Graber and
+                  Naoaki Okazaki},
+  title        = {{CASE:} Aligning Coarse-to-Fine Cognition and Affection for Empathetic
+                  Response Generation},
+  booktitle    = {Proceedings of the 61st Annual Meeting of the Association for Computational
+                  Linguistics (Volume 1: Long Papers), {ACL} 2023, Toronto, Canada,
+                  July 9-14, 2023},
+  pages        = {8223--8237},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2023},
+  url          = {https://aclanthology.org/2023.acl-long.457},
+  timestamp    = {Thu, 13 Jul 2023 16:47:40 +0200},
+  biburl       = {https://dblp.org/rec/conf/acl/ZhouZW0H23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
